@@ -1,5 +1,7 @@
 ## Hi there, I'am Saber 👋
 
+Here are some ideas to get you started:
+- 📫 How to reach me: [Website](https://melkisaber.netlify.app) - [LinkedIn](https://www.linkedin.com/in/saber-el-melki/) -
 <!--
 **el-melki-saber/el-melki-saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
